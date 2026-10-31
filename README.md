@@ -45,19 +45,19 @@
 
 ![Nom de l'entreprise](unagi-kanji-red.png)
 
-(source de l'image : ...)
+(source de l'image : https://studio-unagi.com/)
 
-- Types de produits et de services : ...
-- Étapes de production : ...
-- Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : ...
+- Types de produits et de services : 
+- Étapes de production : Storyboard, brouillon, propre, couleur, composition
+- Type d'emploi visé : Animateur
+- Étapes pour obtenir cet emploi : Apprendre l'animation 2d, stage, portfolio, emploi.
 
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
-- Mon action d'ici la fin de la session : ...
+- Mon profil en une phrase : je suis un créatif qui veut trouver um emploi stable dans le domaine vidéo ou animation.
+- Ce qui m'a surpris : le nombre de studio à MTL
+- Ma force principale et la faiblesse à travailler : Ma force principale est ma capacité de trouver beaucoup d'idée de concept créatif. Ma plus grande faibless est ma gestion et mon organisation.
+- Mon action d'ici la fin de la session : Je vais m'organiser pour mieux me concentrer sur ce que j'aime faire.
 
 ## Ma capsule
 
