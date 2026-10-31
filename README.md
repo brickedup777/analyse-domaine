@@ -43,7 +43,7 @@
 - Types d'entreprises : Studios de développement, Studio d'animation
 - Exemple d'entreprise : Eltoro Studio, Productions Arborescence, Comète Studio Animé, Unagi studio 
 
-![Nom de l'entreprise](entreprise.jpg)
+![Nom de l'entreprise](unagi-kanji-red.png)
 
 (source de l'image : ...)
 
