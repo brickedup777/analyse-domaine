@@ -14,34 +14,34 @@
 
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
-| Graphisme | ... | ... |
-| Vidéo et animation 2D | ... | ... |
-| 3D | ... | ... |
-| Web | ... | ... |
-| Jeux vidéo | ... | ... |
-| Développement logiciel | ... | ... |
-| Installations et expériences immersives | ... | ... |
+| Graphisme | fort | J'aime tout ce qui à avoir les logos, illustration et photographie. |
+| Vidéo et animation 2D | fort | J'adore regarder des films ou series d'animation 2d et aussi voir le processus derrière. |
+| 3D | fort | J'adore regarder films ou series d'animation 3d et aussi voir le processus derrière. |
+| Web | faible | Trop technique pour moi |
+| Jeux vidéo | faible | Jamais été un vrai gamer |
+| Développement logiciel | faible | Trop technique pour moi |
+| Installations et expériences immersives | moyen | J'ai un peu interêt à cause des lumières et lasères. |
 
 ## Mes 2 domaines préférés
 
-### Domaine 1 : ...
+### Domaine 1 : Vidéo et animation 2d
 
-- Expérience : ...
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : Fait un film au secondaire
+- Logiciels et outils : Caméras, micro, Apprendre Adobe premiere pro
+- Pourquoi il m'intéresse : Surtout l'animation 2d, car je trouve que le processus pour le doublage est fun et j'ai hâte d'apprendre d'avantage tout ce qui à avoir le dessin.
+- Travailler dans ce domaine : Oui ,je me vois travailler dans ce domaine, car celui-ci reflète mes intérêts.
 
-### Domaine 2 : ...
+### Domaine 2 : Graphisme
 
-- Expérience : ...
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : Dessin, Photoshop, Illustrator.
+- Logiciels et outils : Photoshop, Apprendre Illustrator.
+- Pourquoi il m'intéresse : Depuis tout jeune, j'adore le processus de la création d'une image que ce soit sure papier ou digital.
+- Travailler dans ce domaine : Non, je me vois travailler dans ce domaine, car j'ai l'impression qu'il est difficile de trouver du travail pour ce domaine surtout lorsqu'on débutent.
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : ...
-- Exemple d'entreprise : ...
+- Types d'entreprises : Studios de développement, Studio d'animation
+- Exemple d'entreprise : Eltoro Studio, Productions Arborescence, Comète Studio Animé, Unagi studio 
 
 ![Nom de l'entreprise](entreprise.jpg)
 
