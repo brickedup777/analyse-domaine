@@ -47,7 +47,7 @@
 
 (source de l'image : https://studio-unagi.com/)
 
-- Types de produits et de services : 
+- Types de produits et de services : Film d'animation 2d
 - Étapes de production : Storyboard, brouillon, propre, couleur, composition
 - Type d'emploi visé : Animateur
 - Étapes pour obtenir cet emploi : Apprendre l'animation 2d, stage, portfolio, emploi.
@@ -60,5 +60,6 @@
 - Mon action d'ici la fin de la session : Je vais m'organiser pour mieux me concentrer sur ce que j'aime faire.
 
 ## Ma capsule
+
 
 ![Mon interface OBS](obs.png)
